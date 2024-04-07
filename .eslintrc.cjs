@@ -37,6 +37,7 @@ module.exports = {
             allowNullish: true,
             allowNumber: true,
             allowRegExp: false
-        }]
+        }],
+        '@typescript-eslint/no-non-null-assertion': ['off']
     },
 }
